@@ -6,7 +6,7 @@ Based in Germany, the CAuDri-Challenge is a competition that aims to provide a p
 
 Each team will design and build a 1:10 scale autonomous vehicle that can navigate complex traffic scenarios while adhering to traffic rules, recognizing road signs, obeying speed limits, and maneuvering around obstacles etc.
 
-For more information, visit our [official website](https://caudri.org/).
+For more information, visit our [official website](https://caudri-challenge.de).
 
 ## Quick Links
 - [Latest Release of the CAuDri-Challenge Regulations](https://github.com/CAuDri/CAuDri-Challenge-Regulations/releases)
